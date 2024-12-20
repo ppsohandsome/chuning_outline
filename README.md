@@ -4,7 +4,17 @@
 
 程序基于yolov7-mask的branch，实例分割+掩膜提取
 
+
+
 ## 1.文件目录
+
+### 1.0下载yolov7-mask.pt
+
+下载地址如下：
+
+https://gist.github.com/ppsohandsome/8191e9c0ffb069ce4e96ab35c513a950
+
+将下载的pt放到data目录下，没有训练，直接用的预训练模型
 
 ### 1.1zinput and zoutput
 
